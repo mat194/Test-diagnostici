@@ -1,0 +1,12 @@
+name: Test-diagnostici
+title: Test-diagnostici
+username: 1k96vt-matteo-morra
+account: 1k96vt-matteo-morra
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10793636
+bundleId: 8050739
+url: https://1k96vt-matteo-morra.shinyapps.io/Test-diagnostici/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
