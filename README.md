@@ -47,7 +47,7 @@ $$
 Valore\;predittivo\;positivo=\frac{Sn* Prev}{Sn* Prev + (1-Sp)*(1-Prev)} 
 $$
 
-Vediamo come nella stima del valore predittivo positivo le caratteristiche intrinseche di un test (sensibilità ossia probabilità condizionata di test positivo se sono malato) sono moltiplicate per la probabilità marginale di avere la mattia (ossia la prevalenza o probabilità pre-test) ottenendo così la stima dei veri positivi. Il medesimo ragionamento viene applicato nel caso dei falsi positivi.
+Vediamo come nella stima del valore predittivo positivo le caratteristiche intrinseche di un test (sensibilità ossia probabilità condizionata di test positivo se sono malato) sono moltiplicate per la probabilità marginale di avere la malattia (ossia la prevalenza o probabilità pre-test) ottenendo così la stima dei veri positivi. Il medesimo ragionamento viene applicato nel caso dei falsi positivi.
 
 Secondo il teorema di Bayes, infatti i valori predittivi non sono altro che probabilità condizionate di malattia in caso di test positivi
 
