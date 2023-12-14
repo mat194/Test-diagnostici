@@ -77,3 +77,5 @@ Esistono anche altri valori che implicitamente usiamo nella pratica clinica, per
 $$
 1-NPV= \frac{(1-Sn)*Prev}{(1-Sn)*Prev + Sp*(1-Prev)}
 $$
+
+To be continued....
